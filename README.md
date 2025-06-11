@@ -2,7 +2,7 @@
 
 ## 🧬 Data Scientist & Biostatistician | Co-founder at Azahar Data Insights
 
-PhD in Clinical-Medical Biochemistry and Immunology and Master's in Bioinformatics and Biostatistics (UOC) with over 15 years of experience in biomedical research. Specialist in biostatistics and data science applied to the healthcare sector.
+PhD in Clinical-Medical Biochemistry and Immunology and Master's in Bioinformatics and Biostatistics with over 15 years of experience in biomedical research. Specialist in biostatistics and data science applied to the healthcare sector.
 
 ## 🛠️ Technologies & Tools
 
@@ -35,14 +35,35 @@ Nutritional impact studies (biofortified corn Guatemala), frailty in Catalonia, 
 ### **Survival and epidemiology**
 Critical patient cohort analysis, mortality studies and risk factor assessment
 
+### **Public health impact assessment**
+Quantitative evaluation of interventions and events affecting population health, including policy impact modeling and resource optimization strategies
+
 ## 🏢 Current Work
 
 Co-founder of **[@Azahar-Data-Insights](https://github.com/Azahar-Data-Insights)** alongside [@palomorub](https://github.com/palomorub), where we apply the **D²I (Data to Insights)** methodology to transform complex data into strategic decisions. We work with international organizations, hospitals and research groups on high social impact projects.
 
 ### Our D²I Methodology:
-- **D²I Core:** Structured data diagnosis and initial strategic recommendations
-- **D²I Model:** Development of statistical models and algorithms
-- **D²I Impact:** Advanced visualization and interactive tools
+- **D²I Core:** Structured data diagnosis and strategic recommendations
+- **D²I Model:** Statistical models and advanced algorithms development
+- **D²I Impact:** Advanced visualization and interactive decision-making tools
+
+## 💡 Featured Projects
+
+### **Critical Care Nutrition Study (ENPIC)**
+- Analysis of 600+ critical patients across multiple Spanish ICUs
+- **Investigated obesity paradox relationship with enteral nutrition and mortality rates**
+- Applied survival analysis and ROC curves for clinical evolution assessment
+- Generated clinical insights for optimizing nutritional strategies in intensive care
+
+### **Pharmacy Referral System (Indica+PRO)**
+- Developed ML models for primary care referral decision-making
+- **Improved prediction accuracy from 60% to 80%**
+- Published in Frontiers in Pharmacology
+
+### **Biofortified Corn Impact Study (Guatemala)**
+- Modeled nutritional intervention effects on chronic child malnutrition
+- **Predicted reduction from 45% to 28% stunting with full adoption**
+- Created interactive Shiny dashboard for policy visualization
 
 ## 📚 Publications
 
@@ -66,11 +87,9 @@ Co-founder of **[@Azahar-Data-Insights](https://github.com/Azahar-Data-Insights)
 - 🔗 LinkedIn: [Julia Sánchez-Tormo](https://www.linkedin.com/in/julia-sanchez-tormo/)
 - 🆔 ORCID: [0000-0001-9341-8737](https://orcid.org/0000-0001-9341-8737)
 
----
 
 *Committed to reproducible science and social impact through data.*
 
----
 ---
 
 # ¡Hola! 👋 Soy Julia M. Sánchez-Tormo
@@ -93,14 +112,36 @@ Estudios de impacto nutricional (maíz biofortificado Guatemala), fragilidad en 
 ### **Supervivencia y epidemiología**
 Análisis de cohortes de pacientes críticos, estudios de mortalidad y factores de riesgo
 
+### **Evaluación de impacto en salud pública**
+Evaluación cuantitativa de intervenciones y eventos que afectan a la salud poblacional, incluyendo modelado de impacto de políticas y estrategias de optimización de recursos
+
 ## 🏢 Trabajo Actual
 
 Co-fundadora de **[@Azahar-Data-Insights](https://github.com/Azahar-Data-Insights)** junto con [@palomorub](https://github.com/palomorub), donde aplicamos la metodología **D²I (Data to Insights)** para transformar datos complejos en decisiones estratégicas. Trabajamos con organizaciones internacionales, hospitales y grupos de investigación en proyectos de alto impacto social.
 
 ### Nuestra Metodología D²I:
-- **D²I Core:** Diagnóstico estructurado de datos y primeras recomendaciones estratégicas
-- **D²I Model:** Desarrollo de modelos estadísticos y algoritmos
-- **D²I Impact:** Visualización avanzada y herramientas interactivas
+- **D²I Core:** Diagnóstico estructurado de datos y recomendaciones estratégicas
+- **D²I Model:** Desarrollo de modelos estadísticos y algoritmos avanzados
+- **D²I Impact:** Visualización avanzada y herramientas interactivas para la toma de decisiones
+
+## 💡 Proyectos Destacados
+
+### **Estudio de Nutrición en UCI (ENPIC)**
+- Análisis de más de 600 pacientes críticos en múltiples UCI españolas
+- **Investigación de la relación paradoja de la obesidad con nutrición enteral y tasas de mortalidad**
+- Aplicación de análisis de supervivencia y curvas ROC para evaluación de evolución clínica
+- Generación de insights clínicos para optimizar estrategias nutricionales en cuidados intensivos
+
+### **Sistema de Derivación Farmacéutica (Indica+PRO)**
+- Desarrollo de modelos ML para toma de decisiones en derivación a atención primaria
+- **Mejora de precisión del 60% al 80%**
+- Publicado en Frontiers in Pharmacology
+
+### **Estudio Impacto Maíz Biofortificado (Guatemala)**
+- Modelado de efectos de intervención nutricional en desnutrición crónica infantil
+- **Predicción de reducción del 45% al 28% de stunting con adopción total**
+- Creación de dashboard Shiny interactivo para visualización de políticas
+
 
 ## 📚 Publicaciones
 
@@ -117,6 +158,5 @@ Co-fundadora de **[@Azahar-Data-Insights](https://github.com/Azahar-Data-Insight
 - Seguridad alimentaria
 - Cooperación internacional
 
----
 
 *Comprometida con la ciencia reproducible y el impacto social a través de los datos.*
