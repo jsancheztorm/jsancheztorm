@@ -158,5 +158,12 @@ Co-fundadora de **[@Azahar-Data-Insights](https://github.com/Azahar-Data-Insight
 - Seguridad alimentaria
 - Cooperación internacional
 
+## 📫 Cómo contactarme
+
+- 🌐 Website: [azahardata.es](https://azahardata.es)
+- 📧 Email: juliasanchez@azahardata.com
+- 🔗 LinkedIn: [Julia Sánchez-Tormo](https://www.linkedin.com/in/julia-sanchez-tormo/)
+- 🆔 ORCID: [0000-0001-9341-8737](https://orcid.org/0000-0001-9341-8737)
+
 
 *Comprometida con la ciencia reproducible y el impacto social a través de los datos.*
